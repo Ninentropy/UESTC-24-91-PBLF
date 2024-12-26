@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/music.ico</file>
+        <file>images/goback.png</file>
+        <file>images/Ninemusic.png</file>
+        <file>images/pause.png</file>
+        <file>images/rowcircle.png</file>
+        <file>images/unpause.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/4.png</file>
+        <file>images/4pause.png</file>
+        <file>images/8.png</file>
+        <file>images/8pause.png</file>
+        <file>images/line.png</file>
+        <file>images/score.png</file>
+        <file>images/n1.png</file>
+        <file>images/n2.png</file>
+        <file>images/n4.png</file>
+        <file>images/n4pause.png</file>
+        <file>images/n8.png</file>
+        <file>images/n8pause.png</file>
+        <file>images/2n8.png</file>
+        <file>images/notedown.png</file>
+        <file>images/noteup.png</file>
+        <file>images/itemplus.png</file>
+    </qresource>
+    <qresource prefix="/audios">
+        <file>audios/A0.MP3</file>
+        <file>audios/A1.MP3</file>
+        <file>audios/A2.MP3</file>
+        <file>audios/A3.MP3</file>
+        <file>audios/A4.MP3</file>
+        <file>audios/A5.MP3</file>
+        <file>audios/A6.MP3</file>
+        <file>audios/A7.MP3</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
